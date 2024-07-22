@@ -1,4 +1,4 @@
-import { mousePosition } from '../mouse/mousePosition.js';
+import { mousePosition } from './mousePosition.js';
 import { refreshBackground} from '../background.js';
 import { drawPoints } from '../drawPoints.js';
 import { drawMenu } from '../drawMenu.js';
